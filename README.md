@@ -13,3 +13,8 @@
   *   terraform plan
   *   terraform apply
   *   terraform destroy
+
+References:
+Commands -> https://www.terraform.io/docs/commands/index.html
+Providers -> https://www.terraform.io/docs/providers/index.html
+AWS resource reference -> https://registry.terraform.io/providers/hashicorp/aws/latest/docs
